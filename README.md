@@ -1,6 +1,7 @@
 # Regulation_temperature
 
-<img width="539" alt="Regulation" src="https://github.com/daniels-projets/Regulation_temperature/assets/126287326/5cd42d6d-2e66-4835-b04c-bf3f9de4c228">
+<img width="1100" alt="telegram_double" src="https://github.com/daniels-projets/Regulation_temperature/assets/126287326/b2c02a0a-54b6-4329-b456-2586a293945c">
+
 
 Projet de régulation pour la température avec Emetteur ESP32 vers Récepteur ESP8266 en protocole Esp-Now
 Emetteur composé d'un ESP32, OLED SH1106, BME280 et KY040

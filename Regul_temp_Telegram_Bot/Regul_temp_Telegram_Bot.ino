@@ -22,16 +22,16 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "Bbox-Lux";
-const char* password = "2427242711";
+const char* ssid = "@@@@@@@@@@";
+const char* password = "&&&&&&&&&&";
 
 // Initialize Telegram BOT
-#define BOTtoken "6849681295:AAHlnx_lgC6lWufIOA9LIkaPEYvQLnXCn80"  // your Bot Token (Get from Botfather)
+#define BOTtoken "#################"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "1406207106"
+#define CHAT_ID "§§§§§§§§§§§"
 
 #ifdef ESP8266
        X509List cert(TELEGRAM_CERTIFICATE_ROOT);

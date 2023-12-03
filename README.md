@@ -23,6 +23,13 @@ En cas de coupure signal ou erreur de transfert (car le recepteur renvoi le code
 et l'émetteur fera de nouvelles tentatives de transfert.
 Les émoticons signalent l'état de la température ressenti par rapport à la consigne.
 Un symbole flèche vers haut s'affiche pour le déclanchement mode chauffage du récepteur, ou symbole flèche vers le bas pour le mode rafraîchissement déclanché.
+-
+https://github.com/daniels-projets/Regulation_temperature/assets/126287326/d8f4b0d3-781e-4b49-8e03-068c784f2dd1
+-
+Deuxième version avec Telegram Bot pour Lecture température et modification consigne à distance.
+Aussi affichage température, consigne sur module récepteur et remontée de la nouvelle consigne vers module thermostat.
+La liaison module bot et recepteur par Software Serial.
+
 
 
 

@@ -16,6 +16,8 @@ https://github.com/daniels-projets/Regulation_temperature/assets/126287326/75a4b
 Démo passage mode chauffage
 https://github.com/daniels-projets/Regulation_temperature/assets/126287326/2a68c6f8-c46a-4190-a2f0-2992ad7cf03e
 -
+![image](https://github.com/daniels-projets/Regulation_temperature/assets/126287326/25fabb4c-9a1d-4576-bc6e-684d00444dbd)
+-
 Au démarage la temperature est fixée à 19°, pour la modifier tourner l'encodeur et valider par une pression.
 Le mode réglage change le symbole ° de la consigne en #, le symbole ° sera remis après la validation de la nouvelle consigne.
 Un logo signal wifi, s'affiche durant l'envoi de la consigne vers le récepteur.
